@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75990647.chunk.css",
+    "main.js": "/static/js/main.3c119aba.chunk.js",
+    "main.js.map": "/static/js/main.3c119aba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.14f8fd27.js",
+    "runtime-main.js.map": "/static/js/runtime-main.14f8fd27.js.map",
+    "static/js/2.0702734d.chunk.js": "/static/js/2.0702734d.chunk.js",
+    "static/js/2.0702734d.chunk.js.map": "/static/js/2.0702734d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.75990647.chunk.css.map": "/static/css/main.75990647.chunk.css.map",
+    "static/js/2.0702734d.chunk.js.LICENSE.txt": "/static/js/2.0702734d.chunk.js.LICENSE.txt",
+    "static/media/spiderman.png": "/static/media/spiderman.ea80e9d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14f8fd27.js",
+    "static/js/2.0702734d.chunk.js",
+    "static/css/main.75990647.chunk.css",
+    "static/js/main.3c119aba.chunk.js"
+  ]
+}
